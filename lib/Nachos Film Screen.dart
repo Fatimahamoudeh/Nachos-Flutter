@@ -58,7 +58,7 @@ class _NachosFilmScreenState extends State<NachosFilmScreen> {
               Column(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
-                  Text('Film name', style: TextStyle(fontSize: 26, fontWeight: FontWeight.bold, color: Colors.white)),
+                  Text('Film name', style: TextStyle(fontSize: 26, fontWeight: FontWeight.bold, color: Colors.black)),
                   Text('By', style: TextStyle(fontSize: 18, color: Colors.grey)),
                   Container(
                     margin: EdgeInsets.symmetric(horizontal: 20, vertical: 20),
